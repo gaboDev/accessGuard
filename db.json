@@ -1,0 +1,18 @@
+[
+	{
+		"identificador":"C5-DB-9B-0B-29-6E",
+		"nombre":"nombre"
+	},
+	{
+		"identificador":"4E-13-51-E4-F6-72",
+		"nombre":"apellido materno"
+	},
+	{
+		"identificador":"24-20-C3-45-F2-F7",
+		"nombre":"apellido paterno"
+	},
+	{
+		"identificador":"99-08-8C-58-83-7D",
+		"nombre":"número de control"
+	}
+]
